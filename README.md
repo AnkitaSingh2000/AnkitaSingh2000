@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Ankita Singh 👋
 
-<!--
-**AnkitaSingh2000/AnkitaSingh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ED- Tech Project
+- 🌱 I’m currently learning MERN, NextJS
+- 👩‍💻 All of my Projects are available at
+  https://ankitasingh2000.github.io/Ankita-Singh-Portfolio-/
+- 💬 Ask me about C++, SQL, JAVA, ReactJS
+- 📫 How to reach me: iankitasingh12@gmail.com
 
-Here are some ideas to get you started:
+#### Connect with me 😊
+![leetcode](https://github.com/AnkitaSingh2000/AnkitaSingh2000/assets/89559467/43a66298-8641-417b-a7d7-5a024ef8edad)  ![LinkedIn](https://github.com/AnkitaSingh2000/AnkitaSingh2000/assets/89559467/cb36187a-09e5-4848-9cd5-c716849457de) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Languages and Tools 
+
