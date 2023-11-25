@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ankita Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<p>*Hi, I'm Ankita Singh, a Front-End Web Developer | Artist 🚀 from India. Currently, I'm pursuing Master of Computer Applications 🎓 from Vellore Institute of Technology 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy playing sports 🏈 and traveling ⛰️.
+
+  <h2>All about I, Me and MYSELF !:</h2>
 
 <img align="right" alt="coding" width="400" src="https://www.bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitasingh2000&label=Profile%20views&color=0e75b6&style=flat" alt="ankitasingh2000" /> </p>
 
-- 🔭 I’m currently working on **Ed- Tech Project**
+- 👨🏽‍💻 I’m currently working with Node.js, React, Php, Javascript 🛠;
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://ankitasingh2000.github.io/Ankita-Singh-Portfolio-/](https://ankitasingh2000.github.io/Ankita-Singh-Portfolio-/)
 
-- 💬 Ask me about **C/C++, JAVA, HTML/CSS, JavaScript, ReactJS**
+- 💬 Ask me about anything, I am happy to help 😎
+
+- ⚡️ Fun-Fact: I am an Actor 🎭 and a Dancer 💃 who can Code 💻;
 
 - 📫 How to reach me **iankitasingh12@gmail.com**
 
