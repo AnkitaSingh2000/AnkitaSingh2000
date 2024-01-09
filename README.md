@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitasingh2000&label=Profile%20views&color=0e75b6&style=flat" alt="ankitasingh2000" /> </p>
 
-- 👨🏽‍💻 I’m currently working with Node.js, React, Php, Javascript 🛠;
+- 👨🏽‍💻 I’m currently working with Blockchain🛠;
 
 - 🌱 I’m currently learning **MERN Stack**
 
