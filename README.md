@@ -9,8 +9,6 @@
 
 - 👨🏽‍💻 I’m currently working with Blockchain🛠;
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👨‍💻 All of my projects are available at https://ankitasingh2000.github.io/Ankita/
 - 💬 Ask me about anything, I am happy to help 😎
 
