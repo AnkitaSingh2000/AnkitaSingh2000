@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitasingh2000&label=Profile%20views&color=0e75b6&style=flat" alt="ankitasingh2000" /> </p>
 
-- 👨🏽‍💻 I’m currently working with Blockchain🛠;
+- 👨🏽‍💻 I’m currently working with Devops🛠;
 
 - 👨‍💻 All of my projects are available at https://ankitasingh2000.github.io/Ankita/
 - 💬 Ask me about anything, I am happy to help 😎
