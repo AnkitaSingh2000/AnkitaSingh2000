@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Singh</h1>
-<p>*Hi, I'm Ankita Singh, a Front-End Web Developer | Artist 🚀 from India. Currently, I'm pursuing Master of Computer Applications 🎓 from Vellore Institute of Technology 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy playing sports 🏈 and traveling ⛰️.
+<p>*Hi, I'm Ankita Singh, a Cloud Engineer  | Artist 🚀 from India. I have completed  Master of Computer Applications 🎓 from Vellore Institute of Technology 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy playing sports 🏈 and traveling ⛰️.
 
   <h2>All about I, Me and MYSELF !:</h2>
 
